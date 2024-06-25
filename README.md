@@ -2,6 +2,8 @@
 
 A simple and efficient Todo application built with React for the frontend and Django for the backend. This app allows users to manage their tasks effectively.
 
+![Todo App](assets/Todo_React_Django.png)
+
 ## Features
 
 - Add, edit, and delete tasks
@@ -15,4 +17,4 @@ A simple and efficient Todo application built with React for the frontend and Dj
 - **Database:** MySQL
 - **HTTP Client:** Axios
 
-![Todo App](assets/Todo_React_Django.png)
+
