@@ -1,0 +1,21 @@
+
+#root{
+  background-color: #024950;
+}
+
+body{
+  background-color:#024950 !important;
+}
+
+.card1{
+  background-color:#AFDDE5 !important ;
+}
+
+.addtask{
+  background-color: #046770 !important;
+  border-color: #046770 !important;
+}
+
+h1{
+  font-family:'Times New Roman', Times, serif;
+}
